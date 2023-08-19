@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Meera+Inimai&family=Open+Sans&family=Raleway:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
 
+*{
+    -webkit-tap-highlight-color: transparent;
+}
+
 body{
     margin: 0;
 }
